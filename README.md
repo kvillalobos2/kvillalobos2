@@ -23,7 +23,8 @@
 <h2 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Stats</b> </h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kvillalobos2" alt="ravisolanki" /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvillalobos2&langs_count=10&layout=compact&hide_progress=true&bg_color=FFFFFF&title_color=FFC0CB&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvillalobos2&langs_count=10&layout=compact&bg_color=FFFFFF&title_color=FFC0CB&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kvillalobos2&hide_border=true&background=FFFFFF01&ring=FFC0CB&fire=FFC0CB&dates=40E0D0&currStreakNum=40E0D0&sideNums=40E0D0&currStreakLabel=40E0D0&sideLabels=40E0D0&stroke=FFC0CB&total=FFC0CB&longest=FFC0CB)](https://git.io/streak-stats)
 
 
