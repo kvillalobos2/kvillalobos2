@@ -25,14 +25,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvillalobos2&langs_count=10&layout=compact&bg_color=FFFFFF&title_color=FFC0CB&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kvillalobos2&hide_border=true&background=FFFFFF01&ring=FFC0CB&fire=FFC0CB&dates=40E0D0&currStreakNum=40E0D0&sideNums=40E0D0&currStreakLabel=40E0D0&sideLabels=40E0D0&stroke=FFC0CB&total=FFC0CB&longest=FFC0CB)](https://git.io/streak-stats)
-
-
-<div>
 <p align="left">
  
 <img align="center" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kvillalobos2&show_icons=true&title_color=40E0D0&icon_color=FFC0CB&text_color=40E0D0&bg_color=FFFFFF" alt="Katerin Villalobos's Github Stats" width="450px">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kvillalobos2&show_icons=true&title_color=40E0D0&icon_color=FFC0CB&text_color=40E0D0&bg_color=FFFFFF&border_color=FFC0CB" alt="Katerin Villalobos's Github Stats" width="450px">
 
-</p></div>
+</p>
+<h2>Contact me </h2>
+
 <h2>Contact me </h2>
  <a href="https://www.linkedin.com/in/katerin-villalobos-1b2925237/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
