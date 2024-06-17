@@ -23,14 +23,15 @@
 <h2 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Stats</b> </h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kvillalobos2" alt="ravisolanki" /> </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvillalobos2&langs_count=10&layout=compact&hide_progress=true&bg_color=FFFFFF&title_color=FFC0CB&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kvillalobos2&hide_border=true&background=FFFFFF01&ring=FFC0CB&fire=FFC0CB&dates=40E0D0&currStreakNum=40E0D0&sideNums=40E0D0&currStreakLabel=40E0D0&sideLabels=40E0D0&stroke=FFC0CB&total=FFC0CB&longest=FFC0CB)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvillalobos2&langs_count=10&layout=compact&hide_progress=true&theme=flag-india&bg_color=DEG,FFC0CB,89CFF0&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kvillalobos2&theme=flag-india&hide_border=true&mode=weekly&background=FFFFFF01)](https://git.io/streak-stats)
+
 <div>
 <p align="left">
  
- <img align="center" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kvillalobos2&show_icons=true&title_color=610D4D&icon_color=C949DC&text_color=440A5C&bg_color=F3D3E7" alt="Katerin Villalobo's Github Stats" width="450px">
+<img align="center" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kvillalobos2&show_icons=true&title_color=40E0D0&icon_color=FFC0CB&text_color=40E0D0&bg_color=FFFFFF" alt="Katerin Villalobos's Github Stats" width="450px">
 
 </p></div>
 <h2>Contact me </h2>
