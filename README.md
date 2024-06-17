@@ -22,4 +22,16 @@
 
 <h2 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Stats</b> </h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kvillalobos2" alt="ravisolanki" /> </p>
+<div>
+<p align="left">
+ 
+ <img align="center" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kvillalobos2&show_icons=true&title_color=610D4D&icon_color=C949DC&text_color=440A5C&bg_color=F3D3E7" alt="kvillalobos2's Github Stats" width="450px">
 
+</p></div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvillalobos2&langs_count=10&layout=compact&hide_progress=true&theme=flag-india&bg_color=DEG,FFC0CB,89CFF0&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kvillalobos2&theme=flag-india&hide_border=true&mode=weekly&background=FFFFFF01)](https://git.io/streak-stats)
+
+<h2>Contact me </h2>
+ <a href="https://www.linkedin.com/in/katerin-villalobos-1b2925237/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
