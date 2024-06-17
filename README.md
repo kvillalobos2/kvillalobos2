@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Katerin Villalobos </h1>
 <p align="justify">I'm a software developer with a passion for creating simple, easy-to-use web applications. I thrive on turning ideas into practical solutions. Always eager to learn, I continuously explore new skills, tools, and concepts. Currently, I am furthering my education at the Peruvian University of Applied Sciences, which helps me stay at the forefront of technological advancements and enhances my ability to tackle challenges in innovative ways.</p>
-<h2>💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
+<h1>💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h1>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,7 +20,7 @@
 ![Figma](https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=red)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-<h2 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Stats</b> </h2>
+<h1 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Stats</b> </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kvillalobos2" alt="ravisolanki"/> </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvillalobos2&langs_count=10&layout=compact&bg_color=FFFFFF&title_color=FFC0CB&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -30,5 +30,5 @@
 <img align="center" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kvillalobos2&show_icons=true&title_color=40E0D0&icon_color=FFC0CB&text_color=40E0D0&bg_color=FFFFFF&border_color=FFC0CB" alt="Katerin Villalobos's Github Stats" width="450px">
 </p>
-<h2>Contact me </h2>
+<h1>Contact me </h1>
  <a href="https://www.linkedin.com/in/katerin-villalobos-1b2925237/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
