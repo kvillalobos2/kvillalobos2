@@ -30,5 +30,5 @@
 <img align="center" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kvillalobos2&show_icons=true&title_color=40E0D0&icon_color=FFC0CB&text_color=40E0D0&bg_color=FFFFFF&border_color=FFC0CB" alt="Katerin Villalobos's Github Stats" width="450px">
 </p>
-<h1>Contact me </h1>
+<h1>🙋‍♂️Contact me </h1>
  <a href="https://www.linkedin.com/in/katerin-villalobos-1b2925237/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
